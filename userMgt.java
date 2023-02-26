@@ -2,4 +2,4 @@ landmark
 simon
 dominion
 Ayo
-Obi
+kenedy
